@@ -2,11 +2,16 @@
 C Tic Tac Toe Game Project  
 this is a simple projec with c programming language  
 I use "visual studio" IDE for developing this project   
-# Support:
+## Support
 
 **Contact me @:**
 
-e-mail: r.abtahi1378@gmail.com
+e-mail:
 
-telegram id: @Reyhan_abt
+* r.abtahi1378@gmail.com
+
+Telegram id:
+
+* [@ReyhaneAbthai](https://t.me/ReyhaneAbtahi)
+
 
